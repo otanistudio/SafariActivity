@@ -20,7 +20,7 @@ class SafariActivity: UIActivity {
     }
     
     override func activityImage() -> UIImage? {
-        return UIImage(named: "sample_icon")
+        return UIImage(named: "icon_safari_ios8")
     }
     
     override func canPerformWithActivityItems(activityItems: [AnyObject]) -> Bool {
